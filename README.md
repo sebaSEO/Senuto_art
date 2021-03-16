@@ -1,2 +1,3 @@
 # Senuto_art
-Kod R do publikacji na blog Senuto
+Publikuję w tym miejscu cały kod R użyty w artykule na blogu Senuto. 
+Zapraszam do pobierania kodu i rozwijania swoich umiejętności. 
